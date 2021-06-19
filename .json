@@ -1,0 +1,13 @@
+{
+    "comentarios":[
+        {"id": 1, "email": "micorreo@hotmail.com", "nombre": "Gian Herz", "entrada": "Comentario 1"},
+        {"id": 2, "email": "micorreo2@hotmail.com", "nombre": "Helen Katerina", "entrada": "Comentario 2"},
+        {"id": 3, "email": "micorreo3@hotmail.com", "nombre": "Titar Jean", "entrada": "Comentario 3"},
+        {"id": 4, "email": "micorreo4@hotmail.com", "nombre": "Elle Joon", "entrada": "Comentario 4"},
+        {"id": 5, "email": "micorreo5@hotmail.com", "nombre": "Ivy Minn", "entrada": "Comentario 5"}
+    ], 
+    "productos":[
+        {"id": 1, "dspProducto": "Mi producto", "descripcion": "Alguna descripcion"},
+        {"id": 2, "dspProducto": "Segundo Producto", "descripcion": "Alguna descripcion"}
+    ]
+}
